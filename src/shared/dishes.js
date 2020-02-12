@@ -2,8 +2,8 @@ export const DISHES =
     [
         {
         id: 0,
-        name:'Uthappizza',
-        image: 'assets/images/uthappizza.png',
+        name:'Dante\'s Inferno',
+        image: 'assets/images/pizza.jpg',
         category: 'mains',
         label:'Hot',
         price:'4.99',
@@ -47,8 +47,8 @@ export const DISHES =
         ]                        },
         {
         id: 1,
-        name:'Zucchipakoda',
-        image: 'assets/images/zucchipakoda.png',
+        name:'Calzone',
+        image: 'assets/images/calzone.jpg',
         category: 'appetizer',
         label:'',
         price:'1.99',
@@ -93,8 +93,8 @@ export const DISHES =
         },
         {
         id: 2,
-        name:'Vadonut',
-        image: 'assets/images/vadonut.png',
+        name:'Pizza Bagel',
+        image: 'assets/images/bagel.jpg',
         category: 'appetizer',
         label:'New',
         price:'1.99',
@@ -139,8 +139,8 @@ export const DISHES =
         },
         {
         id: 3,
-        name:'ElaiCheese Cake',
-        image: 'assets/images/elaicheesecake.png',
+        name:'The Alexander',
+        image: 'assets/images/alexander.jpg',
         category: 'dessert',
         label:'',
         price:'2.99',

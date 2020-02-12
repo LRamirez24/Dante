@@ -8,7 +8,7 @@ import { Card, CardImg, CardImgOverlay,
                 onClick={() => onClick(dish.id)}>
                 <CardImg width="100%" src={dish.image} alt={dish.name} />
                 <CardImgOverlay>
-                    <CardTitle>{dish.name}</CardTitle>
+                    <CardTitle className="title">{dish.name}</CardTitle>
                 </CardImgOverlay>
             </Card>
         );
