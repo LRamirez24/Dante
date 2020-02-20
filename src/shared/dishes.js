@@ -13,7 +13,7 @@ export const DISHES =
         {
         id: 1,
         name:'Calzone',
-        image: '/assets/images/calzone.jpg',
+        image: '/assets/images/calzone2.jpg',
         category: 'appetizer',
         label:'',
         price:'1.99',
